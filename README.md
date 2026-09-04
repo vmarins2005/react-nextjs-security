@@ -166,18 +166,25 @@ decisões, e exercícios.
 | Projeto | Conceito |
 |---|---|
 | [react-solid-na-pratica](https://github.com/vmarins2005/react-solid-na-pratica) | Os 5 principios SOLID traduzidos para componentes React, com anti-exemplo e versao boa lado a lado |
-| [quando-abstrair](https://github.com/vmarins2005/quando-abstrair) | A mesma feature em 3 versoes: duplicada, abstraida cedo demais, e abstraida na hora certa |
-| [padroes-de-componentes-react](https://github.com/vmarins2005/padroes-de-componentes-react) | Compound, headless, slots, state reducer e estado controlavel: como absorver variacao sem explodir em props |
-| [arquitetura-por-feature](https://github.com/vmarins2005/arquitetura-por-feature) | Organizacao por feature em Next.js, com fronteiras garantidas por ESLint em vez de disciplina |
-| [regra-de-negocio-no-front](https://github.com/vmarins2005/regra-de-negocio-no-front) | Clean Architecture no front: dominio puro, portas e adaptadores, sem uma linha de React no nucleo |
-| [onde-mora-o-estado](https://github.com/vmarins2005/onde-mora-o-estado) | Os 6 tipos de estado em React e a ferramenta certa para cada um |
-| [estados-impossiveis](https://github.com/vmarins2005/estados-impossiveis) | Da sopa de booleanos ao XState: tornar estados invalidos inexprimiveis |
-| [typescript-na-fronteira](https://github.com/vmarins2005/typescript-na-fronteira) | Tipo nao existe em runtime: validacao com Zod, branded types e verificacao de exaustividade |
-| [testes-que-valem-a-pena](https://github.com/vmarins2005/testes-que-valem-a-pena) | Testing Trophy com Vitest, Testing Library, MSW, Playwright e axe |
-| [performance-no-next](https://github.com/vmarins2005/performance-no-next) | Waterfalls de requisicao, streaming com Suspense e o que RSC realmente economiza de bundle |
-| [entendendo-o-cache-do-next](https://github.com/vmarins2005/entendendo-o-cache-do-next) | As 4 camadas de cache do App Router e como diagnosticar dado velho na tela |
-| [acessibilidade-na-pratica](https://github.com/vmarins2005/acessibilidade-na-pratica) | WCAG 2.2 AA em React: foco, teclado, live regions e os requisitos invisiveis em code review |
-| `seguranca-no-next` **(você está aqui)** | Server Action e endpoint publico: autorizacao, validacao, rate limit e CSP com nonce |
-| [quando-quebra-em-producao](https://github.com/vmarins2005/quando-quebra-em-producao) | Taxonomia de erros, error boundaries, log estruturado e feature flags com kill switch |
-| [design-system-em-monorepo](https://github.com/vmarins2005/design-system-em-monorepo) | Design system como pacote versionado: Turborepo, design tokens e changesets |
-| [commits-que-contam-historia](https://github.com/vmarins2005/commits-que-contam-historia) | Commit atomico e Conventional Commits, com historico curado e um bug para achar via git bisect |
+| [react-quando-abstrair](https://github.com/vmarins2005/react-quando-abstrair) | A mesma feature em 3 versoes: duplicada, abstraida cedo demais, e abstraida na hora certa |
+| [react-padroes-de-componentes](https://github.com/vmarins2005/react-padroes-de-componentes) | Compound, headless, slots, state reducer e estado controlavel: como absorver variacao sem explodir em props |
+| [react-arquitetura-por-feature](https://github.com/vmarins2005/react-arquitetura-por-feature) | Organizacao por feature em Next.js, com fronteiras garantidas por ESLint em vez de disciplina |
+| [react-regra-de-negocio-no-front](https://github.com/vmarins2005/react-regra-de-negocio-no-front) | Clean Architecture no front: dominio puro, portas e adaptadores, sem uma linha de React no nucleo |
+| [react-onde-mora-o-estado](https://github.com/vmarins2005/react-onde-mora-o-estado) | Os 6 tipos de estado em React e a ferramenta certa para cada um |
+| [react-estados-impossiveis](https://github.com/vmarins2005/react-estados-impossiveis) | Da sopa de booleanos ao XState: tornar estados invalidos inexprimiveis |
+| [react-typescript-na-fronteira](https://github.com/vmarins2005/react-typescript-na-fronteira) | Tipo nao existe em runtime: validacao com Zod, branded types e verificacao de exaustividade |
+| [react-testes-que-valem-a-pena](https://github.com/vmarins2005/react-testes-que-valem-a-pena) | Testing Trophy com Vitest, Testing Library, MSW, Playwright e axe |
+| [react-performance-no-next](https://github.com/vmarins2005/react-performance-no-next) | Waterfalls de requisicao, streaming com Suspense e o que RSC realmente economiza de bundle |
+| [react-entendendo-o-cache-do-next](https://github.com/vmarins2005/react-entendendo-o-cache-do-next) | As 4 camadas de cache do App Router e como diagnosticar dado velho na tela |
+| [react-acessibilidade-na-pratica](https://github.com/vmarins2005/react-acessibilidade-na-pratica) | WCAG 2.2 AA em React: foco, teclado, live regions e os requisitos invisiveis em code review |
+| `react-seguranca-no-next` **(você está aqui)** | Server Action e endpoint publico: autorizacao, validacao, rate limit e CSP com nonce |
+| [react-quando-quebra-em-producao](https://github.com/vmarins2005/react-quando-quebra-em-producao) | Taxonomia de erros, error boundaries, log estruturado e feature flags com kill switch |
+| [react-design-system-em-monorepo](https://github.com/vmarins2005/react-design-system-em-monorepo) | Design system como pacote versionado: Turborepo, design tokens e changesets |
+| [react-commits-que-contam-historia](https://github.com/vmarins2005/react-commits-que-contam-historia) | Commit atomico e Conventional Commits, com historico curado e um bug para achar via git bisect |
+
+---
+
+## Licença
+
+[MIT](./LICENSE) — use, copie e adapte à vontade, inclusive em projeto comercial.
+Se este material ajudou, uma estrela no repositório é o suficiente.
